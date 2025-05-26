@@ -15,11 +15,11 @@
 
 ## UNDER CONSTRUCTION ##
 
-Developing the bash script to deploy the infraestructure by AzureCLI
+Developing the bash script to deploy the infraestructure by AzureCLI.
 ### Missing Code
 * LB
 * DB
 * PRIVATE ENDPOINT
-* FIREWALL RULES FOR APT-UBUNTU, DOCKER AND MS SSL AND
+* FIREWALL RULES FOR APT-UBUNTU, DOCKER AND MS SSL
 * REVIEW NSG RULES IN DEPTH
 
